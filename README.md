@@ -11,3 +11,12 @@ Here are some ideas to get you started:
 ### - 🌱 I’m currently learning AI & DS
 ### - 🔭 I’m looking to work on Singapore
 ### - 😄 Fact: I'm a student who just have a little of expertise and skills but will always do it again and again until it performs the best. And if you're still not satisfied, you don't have to pay me anything.
+
+## My skills
+
+### Language
+<img src = "https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=FFD43B"> <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"> 
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+### Frameworks & Libraries
