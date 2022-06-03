@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/75077747/171788190-064afc38-c07f-4da4-82eb-733d0e7f95c3.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=F7F7F7&width=500&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+don't+have+much+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FFFFFFDF&width=500&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+don't+have+much+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1877f2)](https://www.linkedin.com/in/fang-lee/)
 [![My Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00B2FF)](https://www.facebook.com/viethung.phanle/)
@@ -8,10 +8,6 @@
 [![My Youtube Channel](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCE2DVy3_Pk3BdVUAs6U-3cg)
 
 ![Genshin Impact Desktop](https://user-images.githubusercontent.com/75077747/153696602-5d0ee67b-c6ed-451f-a630-111e86596f5c.gif)
-
-### -  I’m currently learning AI & DS
-### - 🔭 I’m looking to work on Singapore
-### - 😄 Fact: I'm a student who doesn't have much experience but will always do the task over and over until it works best. And if you're still not satisfied, you don't have to pay me anything.
 
 ## My skills
 
