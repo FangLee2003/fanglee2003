@@ -1,4 +1,4 @@
-# Hi there, I'm Fang Lee 👋
+(![Header](https://user-images.githubusercontent.com/75077747/171788023-3de188bc-3f62-46f2-916f-1d02d0305ebf.png))
 <!--
 **FangLee2003/fanglee2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
