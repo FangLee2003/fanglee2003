@@ -1,8 +1,7 @@
-(![Header](https://user-images.githubusercontent.com/75077747/171788023-3de188bc-3f62-46f2-916f-1d02d0305ebf.png))
-<!--
-**FangLee2003/fanglee2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+![github-header-image](https://user-images.githubusercontent.com/75077747/171788190-064afc38-c07f-4da4-82eb-733d0e7f95c3.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🔭+I’m+looking+to+work+on+Singapore;😄+Fact:+I'm+a+student+who+doesn't+have+much+experience+but+will+always+do+the+task+over+and+over+until+it+works+best.+And+if+you're+still+not+satisfied,+you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
+
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-43a047?style=for-the-badge&logo=linkedin&logoColor=1877f2)](https://www.linkedin.com/in/fang-lee/)
 [![My Facebook](https://img.shields.io/badge/Facebook-43a047?style=for-the-badge&logo=facebook&logoColor=00B2FF)](https://www.facebook.com/viethung.phanle/)
 [![My Blog  Channel](https://img.shields.io/badge/Blogger-43a047?style=for-the-badge&logo=blogger)](https://fanglee2003.blogspot.com/)
