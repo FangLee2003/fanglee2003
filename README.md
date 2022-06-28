@@ -4,8 +4,9 @@
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1877f2)](https://www.linkedin.com/in/fang-lee/)
 [![My Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00B2FF)](https://www.facebook.com/viethung.phanle/)
-[![My Blog  Channel](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&logo=blogger)](https://fanglee2003.blogspot.com/)
+[![My Blog Channel](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&logo=blogger)](https://fanglee2003.blogspot.com/)
 [![My Youtube Channel](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCE2DVy3_Pk3BdVUAs6U-3cg)
+[![My Tiktok Channel](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=FF0000)](https://www.tiktok.com/@fanglee2003)
 
 ![Genshin Impact Desktop](https://user-images.githubusercontent.com/75077747/153696602-5d0ee67b-c6ed-451f-a630-111e86596f5c.gif)
 
