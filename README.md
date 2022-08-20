@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/75077747/171788190-064afc38-c07f-4da4-82eb-733d0e7f95c3.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&background=000000&color=FFFFFFDF&width=500&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+don't+have+much+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&background=000000&color=FFFFFFDF&width=500&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+have+only+1+year+of+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1877f2)](https://www.linkedin.com/in/fang-lee/)
 [![My Blog Channel](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&logo=blogger)](https://fanglee2003.blogspot.com/)
