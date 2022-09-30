@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&background=000000&color=FFFFFFDF&width=500&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+have+only+1+year+of+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1877f2)](https://www.linkedin.com/in/fang-lee/)
-[![My Blog Channel](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&logo=blogger)](https://fanglee2003.blogspot.com/)
-[![My Youtube Channel](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCE2DVy3_Pk3BdVUAs6U-3cg)
-[![My Tiktok Channel](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=FF0000)](https://www.tiktok.com/@fanglee2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1877f2)](https://www.linkedin.com/in/fang-lee/)
+[![Blog](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&logo=blogger)](https://fanglee2003.blogspot.com/)
+[![Youtube](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCE2DVy3_Pk3BdVUAs6U-3cg)
+[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/b9i4hm4jj3vq1vqnkdieme8h3?si=64ee53f3f64042cb)
+[![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=FF0000)](https://www.tiktok.com/@fanglee2003)
 
 ![GitHubCity(Edited)](https://user-images.githubusercontent.com/75077747/185724984-763da40c-aadf-4ed7-9adc-79233153f0fa.gif)
 
