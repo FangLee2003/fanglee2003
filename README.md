@@ -18,7 +18,7 @@
 
 <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=#F24E1E"> 
 
-### Programming Language
+### Programming Languages
 
 <img src = "https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=FFD43B"> <img src = "https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=000000"> 
 
