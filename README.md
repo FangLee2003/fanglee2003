@@ -6,7 +6,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify)](https://open.spotify.com/show/6Kao4TUU5T9zvGf0eXwiPL)
 [![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=FF0000)](https://www.tiktok.com/@fanglee2003)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&background=000000&color=FFFFFFDF&width=450&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+have+only+1+year+of+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&background=000000&color=FFFFFFDF&width=450&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+have+only+1+year+of+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg) -->
 
 ![GitHubCity(Edited)](https://user-images.githubusercontent.com/75077747/185724984-763da40c-aadf-4ed7-9adc-79233153f0fa.gif)
 
