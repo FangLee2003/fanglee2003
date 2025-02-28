@@ -7,7 +7,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&background=000000&color=FFFFFFDF&width=450&lines=🔭I’m+looking+to+work+on+Singapore;🌱I+have+only+1+year+of+experience+but+;will+always+do+the+task+over+and+over;until+it+works+best.;+And+if+you're+still+not+satisfied%2C+;you+don't+have+to+pay+me+anything.)](https://git.io/typing-svg) -->
 
-![GitHubCity(Edited)](https://user-images.githubusercontent.com/75077747/185724984-763da40c-aadf-4ed7-9adc-79233153f0fa.gif)
+<!-- ![GitHubCity(Edited)](https://user-images.githubusercontent.com/75077747/185724984-763da40c-aadf-4ed7-9adc-79233153f0fa.gif) -->
 
 ## My skills
 
